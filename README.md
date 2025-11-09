@@ -68,7 +68,7 @@
 
 #### [SproutIT](https://sproutit.scit.edu)
 - **Role:** Full Stack Developer
-- **Description:** Developed and maintained a university project management portal for SCIT. Implemented core features like user authentication, dashboards, and notifications using Node.js, React, and MongoDB.
+- **Description:** Developed and maintained a university project (ie. a event webiste for my committee ) at SCIT.
 - **Note:** _Source code is proprietary and not publicly available. Developed as part of my work at SCIT._
 
 ---
